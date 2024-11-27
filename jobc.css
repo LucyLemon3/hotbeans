@@ -1,0 +1,33 @@
+ul{
+    float:right;
+    margin-right: 25px;
+    
+    }
+    
+    ul li{
+    display:inline-block;
+    line-height: 2px;
+    margin: 50px;
+    }
+     ul li a { 
+    color:rgb(0, 0, 0);
+    font-size: 18px;
+    font-weight: 600;
+    position: relative;
+    bottom:119px;
+    }
+    
+    div { 
+        position:relative;
+        bottom:45px;
+        left: 800px;
+         }
+
+         .job{ 
+            border-style: solid;
+            border-radius: 2px;
+            border-width: 21px;
+            border-color: rgb(185, 213, 226);
+            border-left-style: solid;
+            border-right-style: solid;
+         }

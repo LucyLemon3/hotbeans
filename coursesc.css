@@ -1,0 +1,32 @@
+ ul{
+float:right;
+margin-right: 25px;
+
+}
+
+ul li{
+display:inline-block;
+line-height: 2px;
+margin: 50px;
+}
+ ul li a { 
+color:rgb(0, 0, 0);
+font-size: 18px;
+font-weight: 600;
+position: relative;
+bottom:119px;
+ }
+
+ div { 
+position:relative;
+bottom:45px;
+left: 800px;
+ }
+ .logo{ 
+    border-radius: 150px;
+    width: 1000px;
+    height: 234px;
+    position:relative;
+    left: 7px;
+    bottom:175px;
+  }

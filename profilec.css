@@ -29,4 +29,70 @@ ul{
       height: 500px;
       position:relative;
       left: 34px;
+      background-color: rgb(243, 212, 235);
     }
+    .welcome{
+position: relative;
+bottom:500px;
+left:600px;
+font-size:150% ;
+    }
+
+    .logo2{ 
+      border-radius: 150px;
+      width: 90px;
+      height: 90px;
+      position:relative;
+      left:1350px;
+      background-color: rgb(0, 0, 0);
+      bottom:470px;
+    }
+  .phonenumber{ 
+    position: relative;
+    bottom:559px;
+    left:1450px;
+    font-size:150% ;
+  }
+
+  .mail{ 
+    border-radius: 150px;
+    width: 100px;
+    height: 100px;
+    position:relative;
+    left:1345px;
+    background-color: rgb(0, 0, 0);
+    bottom:500px;
+  }
+ .email{
+  position: relative;
+  bottom:600px;
+  left: 1450px;
+  font-size: 150%;
+ }
+ .services{
+  position: relative;
+  bottom:900px;
+  left: 1405px;
+  font-size: 200%;
+ }
+ .profile{
+  border-radius: 150px;
+  width: 250px;
+  height: 250px;
+  position:relative;
+  left:600px;
+  background-color: rgb(0, 0, 0);
+  bottom:900px;
+ }
+ .info{
+  position: relative;
+  bottom:900px;
+  left: 600px;
+  font-size:150%
+ }
+ .degree{
+  position: relative;
+  bottom:200px;
+  left:300px;
+  font-size:75%;
+ }

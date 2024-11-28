@@ -25,22 +25,58 @@ ul{
 
 .em1{
   position:relative;
-  top: 200px;
+  top: 83px;
    left: 53px;
    }
 
    .em2{
     position:relative;
-    top: 91px;
-     left: 423px;
+    bottom:250px;
+     left: 465px;
      }
      .em3{
       position:relative;
-      top: 305px;
-       left: 435px;
+      bottom: 175px;
+       left: 465px;
        }
        .em4{
         position:relative;
-        top: 200px;
+        bottom: 500px;
          left: 53px;
          }
+
+         .logo{ 
+          border-radius: 150px;
+          width: 200px;
+          height: 200px;
+          position:relative;
+          left: 450px;
+          bottom:265px;
+        }
+
+        .logo2{ 
+          border-radius: 150px;
+          width: 200px;
+          height: 200px;
+          position:relative;
+          left: 0px;
+          bottom:30px;
+        }
+
+        .logo3{ 
+          border-radius: 150px;
+          width: 200px;
+          height: 200px;
+          position:relative;
+          left: 450px;
+          bottom:200px;
+        }
+
+        .logo4{ 
+          border-radius: 150px;
+          width: 200px;
+          height: 200px;
+          position:relative;
+          left: 56px;
+          bottom:525px;
+        }

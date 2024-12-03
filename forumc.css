@@ -27,43 +27,51 @@ ul{
 position:relative;
 right:800px;
 top:37px;
+font-size:25px;
 }
   
 .form2{
   position:relative;
-  left:530px;
-  bottom:37px;
+  left:620px;
+  bottom:52px;
+  font-size: 25px;
 }
 
 .form3{
   position:relative;
-  bottom:45px;
+  bottom:50px;
+  font-size: 25px;
 }
 
 .form4{
   position:relative;
   bottom: 49px;
+  font-size: 25px;
 }
 
 .form5{
   position:relative;
   bottom:55px;
+  font-size: 25px;
 }
 
 .form6{
   position:relative;
-  bottom:450px;
-  left:530px;
+  bottom:600px;
+  left:620px;
+  font-size: 25px;
 }
 
 .form7{
   position:relative;
-  bottom:450px;
-  left:530px;
+  bottom:600px;
+  left:620px;
+  font-size: 25px;
 }
 
 .form8{
   position:relative;
-  bottom:450px;
-  left:530px;
+  bottom:600px;
+  left:620px;
+  font-size: 25px;
 }

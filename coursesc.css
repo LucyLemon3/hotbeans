@@ -24,9 +24,15 @@ left: 800px;
  }
  .logo{ 
     border-radius: 170px;
-    width: 1000px;
-    height: 156px;
+    width: 700px;
+    height: 450px;
     position:relative;
-    left:900px;
-    bottom:175px;
+    left:100px;
+    top:30px;
+ }
+ .course1{
+   position:relative;
+   left:200px;
+ top:30px;
+ font-size:150%;
  }

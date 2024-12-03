@@ -80,3 +80,9 @@ ul{
           left: 56px;
           bottom:525px;
         }
+         .text{ 
+          position: relative;
+          left:1200px;
+          bottom:1200px;
+          font-size: 25px;
+         }

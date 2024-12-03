@@ -36,3 +36,11 @@ left: 800px;
  top:30px;
  font-size:150%;
  }
+ .logo2{ 
+  border-radius: 170px;
+  width: 930px;
+  height: 750px;
+  position:relative;
+  left:956px;
+  bottom:700px;
+}

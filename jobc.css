@@ -32,3 +32,11 @@ ul{
             border-right-style: solid;
          }
 
+         .logo1{
+        border-radius: 10px;
+          width: 450px;
+          height: 300px;
+          position:relative;
+          left: 1476px;
+          bottom:455px;
+        }

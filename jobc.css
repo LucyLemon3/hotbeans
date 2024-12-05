@@ -21,6 +21,7 @@ ul{
         position:relative;
         bottom:45px;
         left: 800px;
+  
          }
 
          .job{ 
@@ -31,12 +32,49 @@ ul{
             border-left-style: solid;
             border-right-style: solid;
          }
+            
 
          .logo1{
         border-radius: 10px;
-          width: 450px;
+          width:600 px;
+          height: 400px;
+          position:relative;
+          left: 500px;
+          bottom:500px;
+        }
+
+      .for{
+        position:relative;
+        left: 600px;
+        bottom:500px;
+        font-size: 150%;
+      }
+      .title{
+        position:relative;
+        left: 600px;
+        bottom:500px;
+        font-size: 150%;
+      }
+
+       
+      .logo2{
+        border-radius: 10px;
+          width:300 px;
+          height: 200px;
+          position:relative;
+          left: 0px;
+          bottom:890px;
+      }
+      .logo3{
+        border-radius: 10px;
+          width:500 px;
           height: 300px;
           position:relative;
-          left: 1476px;
-          bottom:455px;
-        }
+          left: 900px;
+          bottom:890px;
+      }
+.word{
+  position:relative;
+  bottom:1500px;
+  left: 1200pX;
+}
